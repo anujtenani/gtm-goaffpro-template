@@ -1,5 +1,5 @@
 homepage: "https://goaffpro.com"
 documentation: "https://github.com/anujtenani/goaffpro/wiki/Custom-Integration-advanced-guide"
 versions:
-  - sha: 5f02a788b90ae804f86b04aa24af8937e567874a
-    changeNotes: Initial release.
+  - sha: 0e5aec6eb372dbd88f29d43e6cb43bd765b77ff6
+    changeNotes: Updated license
