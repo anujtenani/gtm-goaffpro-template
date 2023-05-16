@@ -101,6 +101,7 @@ if(data.total && data.id){
  }
   data.gtmOnSuccess();
 }, function(e){
+  data.gtmOnFailure();
   log('script loading failure');
 },data.shop);
 
